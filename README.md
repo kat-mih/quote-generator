@@ -6,4 +6,4 @@ API: https://api.quotable.io
     - CSS
     - JS
 
-:star: (Live Demo)[https://endless-quote-generator.netlify.app/] :star:
+:star: [Live Demo](https://endless-quote-generator.netlify.app/) :star:
